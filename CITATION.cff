@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite both the associated paper and this repository as below."
+type: dataset
+title: "Data and Materials: From Writing to Supervising (CERC 2026)"
+authors:
+  - family-names: "Weigel"
+    given-names: "Jessica"
+    affiliation: "Hochschule Darmstadt – University of Applied Sciences"
+  - family-names: "Müller"
+    given-names: "Andreas"
+    affiliation: "Hochschule Darmstadt – University of Applied Sciences"
+date-released: "2026-XX-XX"
+license: CC-BY-4.0
+repository-code: "https://github.com/stjiweig/cerc2026-llm-writing-study"
+preferred-citation:
+  type: conference-paper
+  title: "From Writing to Supervising: A Process Study of LLM-Assisted Academic Paper Creation"
+  authors:
+    - family-names: "Weigel"
+      given-names: "Jessica"
+      affiliation: "Hochschule Darmstadt – University of Applied Sciences"
+    - family-names: "Müller"
+      given-names: "Andreas"
+      affiliation: "Hochschule Darmstadt – University of Applied Sciences"
+  conference:
+    name: "CERC 2026"
+  location: "Galway, Ireland"
+  year: 2026
