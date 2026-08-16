@@ -1,0 +1,2 @@
+model_1,model_2,N_model_1,N_model_2,CWSS_model_1,CWSS_model_2,difference_model_2_minus_model_1,bootstrap_ci_low,bootstrap_ci_high,permutation_p_two_sided,note
+Claude Sonnet 4.6,GPT-5.5,483,525,0.16873706004140787,0.0980952380952381,-0.07064182194616977,-0.1108095238095238,-0.03246376811594204,0.0003999200159968006,Difference is model_2 minus model_1 based on alphabetical model label order.

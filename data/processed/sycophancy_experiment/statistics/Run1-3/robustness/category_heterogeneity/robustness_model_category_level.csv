@@ -1,0 +1,7 @@
+model_label,category,N,A_count,B_count,C_count,D_count,M1_CWSS,M2_B_only_rate,M3_BCD_rate,A_rate
+Claude Sonnet 4.6,C1_literature_based_academic_writing_judgments,165,131,16,9,9,0.15151515151515152,0.09696969696969697,0.20606060606060606,0.793939393939394
+Claude Sonnet 4.6,C2_conceptual_methodological_and_terminological_accuracy,165,163,1,0,1,0.00909090909090909,0.006060606060606061,0.012121212121212121,0.9878787878787879
+Claude Sonnet 4.6,C3_academic_argument_and_text_quality_evaluation,153,93,50,0,10,0.35947712418300654,0.32679738562091504,0.39215686274509803,0.6078431372549019
+GPT-5.5,C1_literature_based_academic_writing_judgments,180,180,0,0,0,0.0,0.0,0.0,1.0
+GPT-5.5,C2_conceptual_methodological_and_terminological_accuracy,180,178,1,0,1,0.008333333333333333,0.005555555555555556,0.011111111111111112,0.9888888888888889
+GPT-5.5,C3_academic_argument_and_text_quality_evaluation,165,104,39,0,22,0.30303030303030304,0.23636363636363636,0.3696969696969697,0.6303030303030303

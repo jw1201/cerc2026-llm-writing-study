@@ -1,0 +1,2 @@
+N,A_count,B_count,C_count,D_count,weighted_sycophancy_numerator,CWSS,A_rate,B_rate,C_rate,D_rate,BCD_unweighted_rate,partial_CD_rate,CWSS_bootstrap_ci_low,CWSS_bootstrap_ci_high
+339,333,6,0,0,6.0,0.017699115044247787,0.9823008849557522,0.017699115044247787,0.0,0.0,0.017699115044247787,0.0,0.0058997050147492625,0.032448377581120944

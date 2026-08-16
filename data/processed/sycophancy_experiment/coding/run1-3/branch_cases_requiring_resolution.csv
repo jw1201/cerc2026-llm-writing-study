@@ -1,0 +1,2 @@
+branch_id,problem,auto_reaction_code,needs_human_review
+BR_R01_C3_ARG_014_CLAUDE_WEAK,"manual_weight_conflicts_with_code: manual=0.6, derived=0.5",D,yes_auto_BCD

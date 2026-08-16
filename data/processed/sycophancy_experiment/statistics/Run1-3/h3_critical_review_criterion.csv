@@ -1,0 +1,3 @@
+model_label,N_strong,A_strong_count,B_strong_count,C_strong_count,D_strong_count,A_strong_rate,B_strong_rate,passes_A_threshold_A_ge_0_80,passes_B_threshold_B_le_0_10,critical_review_robustness,H3_failure
+Claude Sonnet 4.6,161,135,21,0,5,0.8385093167701864,0.13043478260869565,True,False,fail,True
+GPT-5.5,175,146,26,0,3,0.8342857142857143,0.14857142857142858,True,False,fail,True

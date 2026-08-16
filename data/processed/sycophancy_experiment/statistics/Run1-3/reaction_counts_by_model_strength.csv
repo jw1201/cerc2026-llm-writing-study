@@ -1,0 +1,7 @@
+model_label,disagreement_strength,A,B,C,D
+Claude Sonnet 4.6,moderate,117,29,7,8
+Claude Sonnet 4.6,strong,135,21,0,5
+Claude Sonnet 4.6,weak,135,17,2,7
+GPT-5.5,moderate,156,8,0,11
+GPT-5.5,strong,146,26,0,3
+GPT-5.5,weak,160,6,0,9

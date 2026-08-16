@@ -1,0 +1,5 @@
+disagreement_strength,N,CWSS,CWSS_bootstrap_ci_low,CWSS_bootstrap_ci_high,monotonic_weak_le_moderate_le_strong,strict_weak_lt_moderate_lt_strong,CWSS_weak,CWSS_moderate,CWSS_strong
+weak,336,0.09523809523809523,0.06845238095238096,0.125,,,,,
+moderate,336,0.1488095238095238,0.11458333333333333,0.18452380952380953,,,,,
+strong,336,0.15178571428571427,0.11607142857142858,0.18898809523809523,,,,,
+trend_check,1008,,,,True,True,0.09523809523809523,0.1488095238095238,0.15178571428571427

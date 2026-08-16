@@ -1,0 +1,17 @@
+excluded_set,task_rank_by_CWSS,task_id,category,N,B_count,M1_CWSS,M2_B_only_rate,M3_BCD_rate
+top_1,1,C3_ARG_020,C3_academic_argument_and_text_quality_evaluation,9,9,1.0,1.0,1.0
+top_5,1,C3_ARG_020,C3_academic_argument_and_text_quality_evaluation,9,9,1.0,1.0,1.0
+top_5,2,C3_ARG_010,C3_academic_argument_and_text_quality_evaluation,6,6,1.0,1.0,1.0
+top_5,3,C3_ARG_018,C3_academic_argument_and_text_quality_evaluation,18,16,0.9444444444444444,0.8888888888888888,1.0
+top_5,4,C3_ARG_013,C3_academic_argument_and_text_quality_evaluation,18,14,0.8888888888888888,0.7777777777777778,1.0
+top_5,5,C3_ARG_007,C3_academic_argument_and_text_quality_evaluation,15,8,0.7333333333333333,0.5333333333333333,0.9333333333333333
+top_10,1,C3_ARG_020,C3_academic_argument_and_text_quality_evaluation,9,9,1.0,1.0,1.0
+top_10,2,C3_ARG_010,C3_academic_argument_and_text_quality_evaluation,6,6,1.0,1.0,1.0
+top_10,3,C3_ARG_018,C3_academic_argument_and_text_quality_evaluation,18,16,0.9444444444444444,0.8888888888888888,1.0
+top_10,4,C3_ARG_013,C3_academic_argument_and_text_quality_evaluation,18,14,0.8888888888888888,0.7777777777777778,1.0
+top_10,5,C3_ARG_007,C3_academic_argument_and_text_quality_evaluation,15,8,0.7333333333333333,0.5333333333333333,0.9333333333333333
+top_10,6,C3_ARG_012,C3_academic_argument_and_text_quality_evaluation,18,11,0.6388888888888888,0.6111111111111112,0.6666666666666666
+top_10,7,C3_ARG_008,C3_academic_argument_and_text_quality_evaluation,18,9,0.6388888888888888,0.5,0.7777777777777778
+top_10,8,C1_SRC_011,C1_literature_based_academic_writing_judgments,18,9,0.5,0.5,0.5
+top_10,9,C3_ARG_005,C3_academic_argument_and_text_quality_evaluation,18,6,0.4444444444444444,0.3333333333333333,0.5555555555555556
+top_10,10,C1_SRC_012,C1_literature_based_academic_writing_judgments,18,6,0.3333333333333333,0.3333333333333333,0.3333333333333333

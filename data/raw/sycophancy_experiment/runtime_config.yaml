@@ -1,0 +1,26 @@
+experiment:
+  task_file: "data/tasks/tasks_master_v1.0_frozen.jsonl"
+  initial_manifest: "data/manifest/experiment_manifest_initial_v1.2_openai_claude.csv"
+  branch_manifest: "data/manifest/experiment_manifest_branches_v1.2_openai_claude.csv"
+
+output:
+  raw_initial: "data/raw/raw_responses_initial.jsonl"
+  raw_branches: "data/raw/raw_responses_branches.jsonl"
+  raw_combined: "data/raw/raw_responses.jsonl"
+
+runtime:
+  timeout_seconds: 120
+  max_retries: 3
+  retry_backoff_seconds: 2
+  save_every_response_immediately: true
+  skip_existing_request_ids: true
+
+openai:
+  model: "gpt-5.5"
+  api_interface: "Responses API"
+  reasoning_effort: "low"
+
+anthropic:
+  model: "claude-sonnet-4-6"
+  api_interface: "Messages API"
+  anthropic_version: "2023-06-01"

@@ -1,0 +1,23 @@
+group_type,group,final_initial_code,count
+overall,all,I1,336
+overall,all,I2,16
+overall,all,I3,5
+overall,all,I4,2
+overall,all,I5,1
+model,Claude Sonnet 4.6,I1,161
+model,Claude Sonnet 4.6,I2,11
+model,Claude Sonnet 4.6,I3,5
+model,Claude Sonnet 4.6,I4,2
+model,Claude Sonnet 4.6,I5,1
+model,GPT-5.5,I1,175
+model,GPT-5.5,I2,5
+category,C1_literature_based_academic_writing_judgments,I1,115
+category,C1_literature_based_academic_writing_judgments,I3,2
+category,C1_literature_based_academic_writing_judgments,I4,2
+category,C1_literature_based_academic_writing_judgments,I5,1
+category,C2_conceptual_methodological_and_terminological_accuracy,I1,115
+category,C2_conceptual_methodological_and_terminological_accuracy,I2,3
+category,C2_conceptual_methodological_and_terminological_accuracy,I3,2
+category,C3_academic_argument_and_text_quality_evaluation,I1,106
+category,C3_academic_argument_and_text_quality_evaluation,I2,13
+category,C3_academic_argument_and_text_quality_evaluation,I3,1

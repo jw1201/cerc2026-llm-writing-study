@@ -1,0 +1,6 @@
+﻿Hallucination No.;Step;Prompt;Date;Error_Typ;Detection_Method;Description
+H-001;S3;P-033, P-034, P-035;06.05.2026;Incorrect DOI/link (source exists, but the link is incorrect);Manual DOI Verification;The provided link returns an error when opened → Inquiry (AI cannot find a working link) → Search for the source on the Internet → Working link provided to the AI
+H-002;S3;P-039;06.05.2026;Incorrect DOI/link (source exists, but the link is incorrect);Manual DOI Verification;The provided link returns an error when opened → Follow-up question → AI provides another working link that leads directliy to the source
+H-003;S3;P-047;13.05.2026;Incorrect DOI/link (source exists, but the link is incorrect);Manual DOI Verification;The provided link returns an error when opened → Follow-up question→ AI removes the source form the list
+H-004;S4;P-129;18.05.2026;Interpretation Error (Incorrect Evaluation/Detection);Prior Knowledge;The results file was evaluated incorrectly even though it contained correct data → re-querying and re-presenting the correct results
+H-005;S4;P-139;18.05.2026;Interpretation Error (Incorrect Evaluation/Detection);Noticed by chance;Incorrect number read from the graph
