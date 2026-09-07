@@ -1,5 +1,7 @@
 # Data and Materials: From Writing to Supervising (CERC 2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22113365.svg)](https://doi.org/10.5281/zenodo.22113365)
+
 Supplementary materials for:
 
 Weigel, J. & Müller, A. (2026). *From Writing to Supervising: A Process Study of LLM-Assisted Academic Paper Creation.* Proceedings of CERC 2026, Galway, Ireland.
